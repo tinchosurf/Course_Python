@@ -6,7 +6,7 @@ number2 = float(input("insert number two: "))
 
 try:
     total = number1 / number2
-    print("the number aren divisible")
+    print("the number are divisible")
 except:
     print("the number are`t divisible")
 
