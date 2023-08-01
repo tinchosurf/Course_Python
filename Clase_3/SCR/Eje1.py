@@ -2,9 +2,9 @@
 en pantalla si es mayor de edad (18 años) o no. """
 
 
-edad = int(input("put yor aye: "))
+age = int(input("put your age: "))
 
-if edad>18:
+if age>18:
     print("you are adult")
 else:
     print("you are minor")
