@@ -1,0 +1,2 @@
+# De estas edades: 34, 54, 12, 76, 2, 9, 34, 87 nos solicitan que guardemos en una variable la mas alta y en otra variable la mas baja y despues la mostremos por pantalla.
+edades = [34, 54, 12, 76, 2, 9, 34, 87]

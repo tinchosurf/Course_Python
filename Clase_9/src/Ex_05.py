@@ -1,0 +1,1 @@
+# Nos solicitaron que desarrollemos un programa para eliminar el archivo productos.txt que esta corrupto.

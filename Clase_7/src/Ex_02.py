@@ -1,0 +1,1 @@
+# Crear una tupla en la cual los elementos sean de diferente tipos de datos. Mostrar por pantalla

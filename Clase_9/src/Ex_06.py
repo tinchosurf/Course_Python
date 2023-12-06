@@ -1,0 +1,1 @@
+# Nos solicitaron crear un programa que cuente cuantas palabras tiene el archivo preambulo.txt
